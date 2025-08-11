@@ -2,9 +2,6 @@
 
 export _JAVA_AWT_WM_NONREPARENTING=1
 export AWT_TOOLKIT=MToolkit
-export IDEA_VM_OPTIONS=/opt/jetbra/vmoptions/idea.vmoptions
-export JETBRAINS_CLIENT_VM_OPTIONS=/opt/jetbra/vmoptions/jetbrains_client.vmoptions
-export PATH=$PATH:~/go/bin
 
 picom --config ~/.config/picom/picom.conf &
 feh --bg-fill ~/wallpapers/wallpaper.jpg
