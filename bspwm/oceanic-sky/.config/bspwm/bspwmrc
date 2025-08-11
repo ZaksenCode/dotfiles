@@ -7,7 +7,7 @@ export JETBRAINS_CLIENT_VM_OPTIONS=/opt/jetbra/vmoptions/jetbrains_client.vmopti
 export PATH=$PATH:~/go/bin
 
 picom --config ~/.config/picom/picom.conf &
-feh --bg-fill ~/wallpapers/girl_bridge_wallpaper.jpg
+feh --bg-fill ~/wallpapers/wallpaper.jpg
 
 $HOME/.config/polybar/launch.sh
 flameshot &
